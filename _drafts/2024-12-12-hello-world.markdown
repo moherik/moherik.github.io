@@ -9,4 +9,6 @@ Semua bermula dari 2 kata tersebut, yups "Hello World", bagi para programmer hel
 
 > its way that i choose and love and become curse
 
-Saya mulai belajar pemrograman sejak *Madrasah Tsanawiyah (sekolah islami setara smp)*, saya ingat buku pertama yang saya baca adalah buku tutorial web dengan **Adobe Dreamweaver** yang dibawah kakak saya dari kampus nya  
+Saya mulai belajar pemrograman sejak kelas 2 *Madrasah Tsanawiyah (sekolah islam setara SMP)*, saya ingat buku pertama yang saya baca adalah buku tutorial web dengan **Adobe Dreamweaver** yang dibawah kakak saya dari kampus nya, saya selalu pinjam saat libur sekolah untuk dibaca dan praktek setiap kakak saya pergi kuliah, ya 
+
+Dan kalau mau praktek saya harus nunggu dia pulang kuliah karena saya 
