@@ -22,8 +22,8 @@ title: Erik Maulana's Blog
 email: muherik.maulana@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tulisan random tentang hobi, hal hal yang saya sukai, bisa jadi pemrograman, fotografi, film, musik, kadang juga curhat :D
-baseurl: "/myblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://moherik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ricklalana
 github_username:  moherik
 
