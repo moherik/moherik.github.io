@@ -17,4 +17,4 @@ Next, setelah lulus *SMP* saya lanjut ke *SMK*, saya memilih jurusan multimedia,
 
 > I love and hate my family in same time, but it become more love than hate lately.
 
-Saat kuliah, disitu saya mulai terjun ke pemrograman, meskipun hal yang dipelajari adalah hal yang basic yang saya sudah kuasai saat itu, namun banyak hal yang hanya saya dapatkan di perkuliahan khususnya koneksi sih
+Saat kuliah, disitu saya mulai terjun ke pemrograman, meskipun hal yang dipelajari adalah hal yang basic yang saya sudah kuasai saat itu, namun banyak hal yang hanya saya dapatkan di perkuliahan.
