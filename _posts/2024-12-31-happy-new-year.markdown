@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2024"
-date:   2024-12-31 09:26:00 +0700
+date:   2024-12-31 21:00:00 +0700
 categories: curcol
 ---
 2024 akan berakhir beberapa jam lagi, sambil mendengarkan playlist dari *the sleeping beauty* di *spotify*, so.. apa yang sudah terjadi di tahun ini?
@@ -34,6 +34,6 @@ Bahagia sapertinya kurang lengkap jika hanya aku sendiri yang merasakan nya. Aku
 
 ===============
 
-> This year, i still alive.
+This year, i still alive.
 
-Happy New Year 2025
+Happy New Year 2025 🥳
