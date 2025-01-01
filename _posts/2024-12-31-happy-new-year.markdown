@@ -34,7 +34,7 @@ Bahagia sapertinya kurang lengkap jika hanya aku sendiri yang merasakan nya. Aku
 
 Seperti sebuah alarm untuk bangun, mungkin sekarang saat nya mencari makna dan tujuan dalam hidup, agar hidup lebih bermakna.
 
-So.. di tahun 2025, i wanna be nice person, still me but nicer. Aku ingin berkontribusi, ingin membuat sesuatu yang berguna bagi orang lain, lebih sering menulis, posting foto, buat projek website, apapun.
+So.. di tahun 2025, i wanna be nice person, still me but nicer. Aku ingin berkontribusi, ingin membuat sesuatu yang berguna bagi orang lain, lebih banyak berkarya, posting foto, buat projek open source mungkin, lebih sering menulis, apapun.
 
 I just wanna make something that i love,
 
