@@ -2,7 +2,7 @@
 layout: post
 title:  "2024"
 date:   2024-12-31 21:00:00 +0700
-categories: curcol
+categories: gabut
 ---
 2024 akan berakhir beberapa jam lagi, sambil mendengarkan playlist dari *the sleeping beauty* di *spotify*, so.. apa yang sudah terjadi di tahun ini?
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Overthinking"
 date:   2024-12-28 09:26:00 +0700
-categories: curcol
+categories: gabut
 ---
 > Overthinking jika diartikan secara kasar dalam bahasa indonesia berarti "berpikir secara berlebihan"
 
