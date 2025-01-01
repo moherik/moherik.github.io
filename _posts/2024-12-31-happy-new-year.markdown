@@ -12,7 +12,7 @@ Di tahun ini, aku mulai mencoba hal-hal baru salah satu nya fotografi, mencoba k
 
 Main game-game offline (sudah lelah dengan game online wkwk), ya.. mungkin pengeluaran terbanyak tahun ini mungkin buat beli game :D tapi gapapa, aku berpikiran game adalah investasi jangkah panjang, nanti bisa diturunkan ke anak cucu atau ya.. bisa main bareng (wkwk berasa tua).
 
-Dan mulai baca buku-buku yang pernah aku beli yang belum dibaca atau selesaikan, belajar nulis. 
+Dan mulai baca buku-buku yang pernah aku beli yang belum dibaca atau selesaikan, dan juga belajar nulis. 
 
 Ya.. tidak banyak memang namun itu memberikan kebahagiaan tersendiri, tentu cara orang bahagia berbeda-beda.
 
@@ -28,12 +28,18 @@ Aku pernah baca sebuah artikel yang intinya;
 
 Dari dulu aku lebih suka sendirian, hidup sendiri, pergi sendiri, kerja sendiri. Namun akhir-akhir ini sepertinya *statement* itu sedang diuji.
 
-Apakah karena aku merasa kesepian? mungkin
+Apakah karena aku merasa kesepian? mungkin.
 
 Bahagia sapertinya kurang lengkap jika hanya aku sendiri yang merasakan nya. Aku ingin membagi kebahagian itu dengan orang lain, orang-orang yang berharga dihidupku, orang yang aku cintai.
 
+Seperti sebuah alarm untuk bangun, mungkin sekarang saat nya mencari makna dan tujuan dalam hidup, agar hidup lebih bermakna.
+
+So.. di tahun 2025, i wanna be nice person, still me but nicer. Aku ingin berkontribusi, ingin membuat sesuatu yang berguna bagi orang lain, lebih sering menulis, posting foto, buat projek website, apapun.
+
+I just wanna make something that i love,
+
 ===============
 
-This year, i still alive.
+That's it.. This year, i still alive.
 
 Happy New Year 2025 🥳
