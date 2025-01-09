@@ -32,7 +32,7 @@ Apakah karena aku merasa kesepian? mungkin.
 
 Bahagia sapertinya kurang lengkap jika hanya aku sendiri yang merasakan nya. Aku ingin membagi kebahagian itu dengan orang lain, orang-orang yang berharga dihidupku, orang yang aku cintai.
 
-Seperti sebuah alarm untuk bangun, mungkin sekarang saat nya mencari makna dan tujuan dalam hidup, agar hidup lebih bermakna.
+Seperti sebuah alarm untuk bangun, mungkin sekarang saat nya mencari makna dan tujuan dalam hidup.
 
 So.. di tahun 2025, i wanna be nice person, still me but nicer. Aku ingin berkontribusi, ingin membuat sesuatu yang berguna bagi orang lain, lebih banyak berkarya, posting foto, buat projek open source mungkin, lebih sering menulis, apapun.
 
@@ -40,6 +40,6 @@ I just wanna make something that i love,
 
 ===============
 
-That's it.. This year, i still alive.
+This year, i still alive.
 
 Happy New Year 2025 🥳
