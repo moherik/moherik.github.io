@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Svelte 5"
+date:   2024-12-31 21:00:00 +0700
+categories: devlog
+---
+Saya ingat projek web pertamaku di kantor menggunakan Angular 6, pernah juga sempat menggunakan VueJs namun belum sempat launching. Setelah itu coba untuk menggunakan React dengan NextJs, dan akhirnya mulai menerapkan dan menetapkan Svelte sebagai framework utama yang sering digunakan sampai saat ini di kantor.
+
+Kenapa Svelte?\
+Ya.. karena menurutku dan anak-anak *Frontend*, Svelte lebih simpel aja untuk di *develop* dan mudah untuk dipelajari dibandingkan dengan *Framework* yang lain (menurut kita).
+
+*Learning curve* Svelte tidak begitu tinggi menurutku karena ya men-*develop* web dengan Svelte sangat mudah dan simpel seperti *develop* web biasa aja dengan HTML, CSS dan JS, berbeda dengan React dengan JSX nya dan banyak fitur-fitur yang menurut saya cukup membingungkan diawal.
+
+Dengan Svelte kita bisa shiping produk lebih cepat dari biasa nya.
+
+### Svelte 5
+
+Svelte 4 hadir di Juni 2023, dan pada Oktober 2024 tim Svelte menghadirkan Svelte 5, cukup cepat  menurutku. Salah satu hal yang mengejutkan dari Svelte 5 yaitu dengan menghadirkan *Rune* yang menurutku malah lebih mirip ke React wkwk.
+
+Perubahan yang sangat radikal memang, namun ada beberapa alasan kenapa tim Svelte melakukan hal tersebut, [What changed, and why?](https://svelte.dev/blog/svelte-5-is-alive#What-changed-and-why)
+
+Jika di Svelte 4, membuat reactivity cukup dengan membuat variabel dengan `let`:
+```javascript
+let counter = 0;
+counter++;
+```
+Di Svelte 5 Rune mode, harus menggunakan `$state()`
+```javascript
+let counter = $state(0);
+counter++;
+```
+
+Dan banyak lagi fitur-fitur baru yang sebelumnya tidak ada dihadirkan di Svelte 5, namun kebanyakan memang perubahan syntax aja, seperti reactivity yang sebelumnya hanya dengan `let` jadi `$state()`, side effect dari sebelumnya `$:` menjadi `$derived` atau `$effect`, props dari `export let` jadi `$props()` dan masih banyak lagi, kalian bisa baca di [Migration Guide](https://svelte.dev/docs/svelte/v5-migration-guide).
+
+### Migrasi Komponen Svelte 4 ke Svelte 5
+
+Sebenarnya Svelte 5 juga *backward compatibility* ke Svelte 4, namun jika ingin migrasi ke Rune mode Svelte 5 juga cukup mudah. Svelte 5 menghadirkan script untuk migrasi otomatis, jadi kalian tidak perlu merubah file satu per satu, kalian bisa upgrade projek dengan menggunakan perintah `npx sv migrate svelte-5`.
+
+Namun tetap perlu cek dan cleanup manual, karena terkadang tidak semua bisa di convert secara otomatis. 
+
+Untuk library, karena di projek selama ini jarang pakai library, tidak terlalu masalah saat migrasi ke Svelte 5, mungkin ada beberapa library yang harus kita ganti atau tulis sendiri karena belum support atau memang ada problem saat digunakan di Svelte 5.  
+
+\
+Dan setelah beberapa bulan mencoba Svelte 5 dan sudah terbiasa dengan *Rune*, cukup happy sih.
